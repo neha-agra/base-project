@@ -1,0 +1,84 @@
+body {
+    background-image: url('kelvin-lutan-r6dHVMLWw4M-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+ .header{
+     display: flex;
+     margin-left: 50px;
+     padding-top: 30px;
+ }
+ .logo{
+     width: 60px;
+     height: 60px;
+     background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     color: white;
+ }
+ .nav{
+     display: flex;
+     padding-left: 70px;
+     padding-top: 15px;
+ }
+ .nav a{
+     padding-left: 40px;
+     text-decoration: none;
+     font-size: 20px;
+     color: black;
+ }
+ a:hover{
+     color: red;
+ }
+ .rogan a{
+     text-decoration: none;
+     display: flex;
+     padding-left: 50px;
+     padding-top: 15px;
+     color: red;
+     font-size: 20px;
+     padding-left: 260px;
+ }
+ .rogan a:hover{
+     color: black;
+ }
+ .discount{
+     display: flex;
+ }
+ .pre{
+    
+    margin-top: 80px;
+    margin-left: 85px;
+     background-color: aliceblue;
+ }
+ .pre2{
+     background-color: aliceblue;
+     margin-top: 80px;
+     color: darkgray;
+ }
+ .pre3{
+     padding-top: 0%;
+     font-size: 50px;
+ }
+ .rules{
+     padding-top: 0%;
+     padding-left: 80px;
+     color: darkgrey;
+ }
+ .footer{
+     display: flex;
+     padding-left: 80px;
+ }
+ .footer p{
+     font-size: 20px;
+ }
+ .footer .in{
+     padding-left: 200px;
+ }
+ span{
+     font-size: 20px;
+     padding-left: 150px;
+     padding-top: 20px;
+ }
